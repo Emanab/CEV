@@ -2,9 +2,9 @@
 
 Hello, 
 
-> Are you a business stakeholder?! 
+>> Are you a business stakeholder?! 
 
-> Do you want to convert your customer to a cost-free resource within your company?!
+>> Do you want to convert your customer to a cost-free resource within your company?!
 
 > Do you have the right tools to engage that customer?!
 
